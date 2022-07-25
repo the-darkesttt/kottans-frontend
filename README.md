@@ -18,3 +18,14 @@ It's all new for me and I'm really excited to learn new stuff, especially about 
 2. It was surprising for me that Linux OS is so powerful and simple to learn at the same time. At first commands may seem difficult and even irritating, but actually they're pretty simple
 3. I do not use Linux in my daily life, but I'm sure I will use these commands I already learned in Git Bash terminal
 
+## 2. Git Collaboration
+
+![week-3](task_git_collaboration/week-3.jpg)
+![week-4](task_git_collaboration/week-4.jpg)
+
+![task-01](task_git_collaboration/learnGtiBranching-1.jpg)
+![task-02](task_git_collaboration/learnGitBranching-2.jpg)
+
+1. Every single topic in this module was new for me. Especially branching, working with remote repositories (push & pull, resolving conflicts and Pull Requests)
+2. For me it was really surprising that working in Git Bash could be so simple and handy. I've never learned about things like branches in Git, merging them and working with remote repo, so it was pretty exciting
+3. Since I joined Kottans, I would definitely use these things for my learning path here: making commits, resolving issues and conflicts in repo, working with remote repo, using Git Bash more certain in my work and tracking commit's history by ```$ git log --graph --oneline ``` (I'm obsessed with this command)
