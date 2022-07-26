@@ -29,3 +29,17 @@ It's all new for me and I'm really excited to learn new stuff, especially about 
 1. Every single topic in this module was new for me. Especially branching, working with remote repositories (push & pull, resolving conflicts and Pull Requests)
 2. For me it was really surprising that working in Git Bash could be so simple and handy. I've never learned about things like branches in Git, merging them and working with remote repo, so it was pretty exciting
 3. Since I joined Kottans, I would definitely use these things for my learning path here: making commits, resolving issues and conflicts in repo, working with remote repo, using Git Bash more certain in my work and tracking commit's history by ```$ git log --graph --oneline ``` (I'm obsessed with this command)
+
+## 3. Intro to HTML and CSS
+
+![week-1](task_html_css_intro/week-1.jpg)
+![week-2](task_html_css_intro/week-2.jpg)
+
+![html](task_html_css_intro/html-0.jpg)
+![css](task_html_css_intro/css-0.jpg)
+
+1. Except forms there wasn't much new for me because I studied HTML & CSS before, but it was really useful to recover the basics from my memory since it was a year I started learning Web Development
+2. I was plesantly surprised that I can rewatch basics in Coursera anytime and don't be afraid of forgetting something
+3. Since it's the basics I can't deny the fact that I must use all of these from the beginning to the end
+
+ 
