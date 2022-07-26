@@ -42,4 +42,12 @@ It's all new for me and I'm really excited to learn new stuff, especially about 
 2. I was plesantly surprised that I can rewatch basics in Coursera anytime and don't be afraid of forgetting something
 3. Since it's the basics I can't deny the fact that I must use all of these from the beginning to the end
 
- 
+## 4. Responsive Web Design 
+
+![flexbox](task_responsive_web_design/flexbox-froggy.jpg)
+![grid](task_responsive_web_design/grid-garden.jpg)
+
+1. I have learned resposive web design before and practicing it everytime so it wasn't difficult for me, but very useful for recovering old knowledges
+2. I've done these two games before and it was surprising how easy they seem for me today
+3. Everything I've learned I will use in my projects, inlcuding media queries, flexbox an grids
+
