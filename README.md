@@ -84,3 +84,12 @@ It's all new for me and I'm really excited to learn new stuff, especially about 
 2. I've done these two games before and it was surprising how easy they seem for me today
 3. Everything I've learned I will use in my projects, inlcuding media queries, flexbox an grids
 
+---
+
+## 5. HTML & CSS Practice
+
+[Demo Page](https://the-darkesttt.github.io/hooli-style-popup/)
+
+[Code Base](https://github.com/the-darkesttt/hooli-style-popup)
+
+---
