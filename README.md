@@ -92,4 +92,23 @@ It's all new for me and I'm really excited to learn new stuff, especially about 
 
 [Code Base](https://github.com/the-darkesttt/hooli-style-popup)
 
+I have never received a review for my work before. This is one of the many reasons why I like Kottans. Getting a review from a person many times superior to you is an invaluable experience
+
 ---
+
+## 6. JS Basics
+
+<details>
+<summary>Screens</summary>
+  
+![course](task_js_basics/coursera.jpg)  
+![01](task_js_basics/01.jpg)
+![02](task_js_basics/02.jpg)
+![03](task_js_basics/03.jpg)
+![04](task_js_basics/04.jpg)
+![05](task_js_basics/05.jpg)
+![06](task_js_basics/06.jpg)
+  
+</details>
+
+Although I learned most of this module on my own, it was helpful to go over the basics again to solidify my knowledge. Many things that were not clear to me before became clear, such as closures and function constructors. I understand that I have to learn ten times more than I know now
