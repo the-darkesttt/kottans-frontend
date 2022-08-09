@@ -1,4 +1,38 @@
 # kottans-frontend
+<details>
+<summary>General</summary>
+
+ - [x] Git Basics
+ - [x] Linux CLI, and HTTP
+ - [x] Git Collaboration
+
+</details>
+
+<details>
+<summary>Front-End Basics</summary>
+
+ - [x] Intro to HTML & CSS
+ - [x] Responsive Web Design
+ - [x] HTML & CSS Practice
+ - [x] JavaScript Basics
+ - [x] Document Object Model - practice
+
+</details>
+
+<details>
+<summary>Advanced Topics</summary>
+
+ - [ ] Building a Tiny JS World (pre-OOP) - practice
+ - [ ] Object oriented JS - practice
+ - [ ] OOP exercise - practice
+ - [ ] Offline Web Applications - optional
+ - [ ] Memory pair game — real project!
+ - [ ] Website Performance Optimization - optional
+ - [ ] Friends App - real project!
+
+</details>
+
+---
 
 ## 0. Git Basics
 
