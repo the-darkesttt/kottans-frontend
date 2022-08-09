@@ -112,3 +112,20 @@ I have never received a review for my work before. This is one of the many reaso
 </details>
 
 Although I learned most of this module on my own, it was helpful to go over the basics again to solidify my knowledge. Many things that were not clear to me before became clear, such as closures and function constructors. I understand that I have to learn ten times more than I know now
+
+---
+
+## 7. DOM
+
+<details>
+<summary>Screens</summary>
+
+![coursera](task_js_dom/coursera.jpg)
+![tasks](task_js_dom/tasks.jpg)
+</details>
+
+[Demo Page](https://the-darkesttt.github.io/dom-task/)
+
+[Code Base](https://github.com/the-darkesttt/dom-task)
+
+Before Kottans, I had almost never been given the opportunity to use JS for web pages in the DOM. I enjoyed solving this problem, although at first it seemed like something scary, because I had never solved this type of problem. Now I feel much more confident in using JS in web pages. And again, I am grateful to Kottans for the opportunity to get a quality review of my code!
