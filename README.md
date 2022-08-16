@@ -163,3 +163,13 @@ Although I learned most of this module on my own, it was helpful to go over the 
 [Code Base](https://github.com/the-darkesttt/dom-task)
 
 Before Kottans, I had almost never been given the opportunity to use JS for web pages in the DOM. I enjoyed solving this problem, although at first it seemed like something scary, because I had never solved this type of problem. Now I feel much more confident in using JS in web pages. And again, I am grateful to Kottans for the opportunity to get a quality review of my code!
+
+---
+
+## 8. Building a Tiny JS World
+
+[Demo Page](https://the-darkesttt.github.io/a-tiny-JS-world/)
+
+[Code Base](https://github.com/the-darkesttt/a-tiny-JS-world)
+
+A very useful, albeit simple, task that helped me better understand exactly how OOP works and what it is based on. It was interesting to learn about prototypes and properties of objects
