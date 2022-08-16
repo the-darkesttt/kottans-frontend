@@ -22,7 +22,7 @@
 <details>
 <summary>Advanced Topics</summary>
 
- - [ ] Building a Tiny JS World (pre-OOP) - practice
+ - [x] Building a Tiny JS World (pre-OOP) - practice
  - [ ] Object oriented JS - practice
  - [ ] OOP exercise - practice
  - [ ] Offline Web Applications - optional
