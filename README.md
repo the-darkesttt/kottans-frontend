@@ -23,7 +23,7 @@
 <summary>Advanced Topics</summary>
 
  - [x] Building a Tiny JS World (pre-OOP) - practice
- - [ ] Object oriented JS - practice
+ - [x] Object oriented JS - practice
  - [ ] OOP exercise - practice
  - [ ] Offline Web Applications - optional
  - [ ] Memory pair game — real project!
@@ -173,3 +173,20 @@ Before Kottans, I had almost never been given the opportunity to use JS for web 
 [Code Base](https://github.com/the-darkesttt/a-tiny-JS-world)
 
 A very useful, albeit simple, task that helped me better understand exactly how OOP works and what it is based on. It was interesting to learn about prototypes and properties of objects
+
+---
+
+## 9. Object Oriented JS
+
+<details>
+<summary>Screens</summary>
+
+![codewars](task_js_oop/codewars.jpg)
+![tasks](task_js_oop/screen.jpg)
+</details>
+
+[Demo Page](https://the-darkesttt.github.io/frontend-nanodegree-arcade-game/)
+
+[Code Base](https://github.com/the-darkesttt/frontend-nanodegree-arcade-game)
+
+Almost everything that was in this task was new to me and at first completely incomprehensible. It took a lot of effort just to get started. Nevertheless, I am very proud of the work I've done (although I know that it is far from ideal). I really enjoyed developing the game. This assignment helped me understand and put into practice OOP without being afraid that it is something super-complex. I think I would like to develop more complex games in the future
