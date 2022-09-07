@@ -190,3 +190,23 @@ A very useful, albeit simple, task that helped me better understand exactly how 
 [Code Base](https://github.com/the-darkesttt/frontend-nanodegree-arcade-game)
 
 Almost everything that was in this task was new to me and at first completely incomprehensible. It took a lot of effort just to get started. Nevertheless, I am very proud of the work I've done (although I know that it is far from ideal). I really enjoyed developing the game. This assignment helped me understand and put into practice OOP without being afraid that it is something super-complex. I think I would like to develop more complex games in the future
+
+---
+
+## 10. OOP exercise - practice
+Currently in progress...
+
+---
+
+## 11. Offline Web Applications
+Currently in progress...
+
+---
+
+## 12. Memory pair game
+
+[Demo Page](https://the-darkesttt.github.io/memory-pair-game/)
+
+[Code Base](https://github.com/the-darkesttt/memory-pair-game)
+
+The further you advance, the more difficult, and therefore, the more interesting it becomes. So far, this is the task on which I have spent the most time and learned to do what I previously thought was something beyond the unrealistic.
